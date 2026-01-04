@@ -532,7 +532,28 @@
       "quantity": "1"
     }
   ],
-  "carts": [],
+  "carts": [
+    {
+      "id": "8",
+      "title": "Cow",
+      "description": "Style and speed. Stand out on HD video calls backed by Studio Mics. Capture ideas on the vibrant touchscreen.",
+      "price": 99999,
+      "discountPercentage": 10.23,
+      "rating": 4.43,
+      "stock": 68,
+      "discount": 20,
+      "brand": "Microsoft Surface",
+      "category": "Animal",
+      "thumbnail": "https://media.istockphoto.com/id/1158677530/photo/a-close-up-of-a-black-and-white-cow-isolated.jpg?s=612x612&w=0&k=20&c=R8RPCqYQo-vGpkb1YDtnYOMD_76LUcDHsey9VbZaOLY=",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/8/1.jpg",
+        "https://cdn.dummyjson.com/product-images/8/2.jpg",
+        "https://cdn.dummyjson.com/product-images/8/3.jpg",
+        "https://cdn.dummyjson.com/product-images/8/4.jpg",
+        "https://cdn.dummyjson.com/product-images/8/thumbnail.jpg"
+      ]
+    }
+  ],
   "images": [
     {
       "src": "https://img.freepik.com/free-photo/diet-healthy-lifestyle-junk-food-concept-cute-redhead-woman-cant-resist-temptation-bite-tasty-ca_1258-127710.jpg?t=st=1740385416~exp=1740389016~hmac=9c891f58c5ebfd4dd88251f14b72333d7aa52957d322016b87358fe45e2b6c8e&w=2000",
