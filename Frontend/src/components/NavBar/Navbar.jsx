@@ -26,7 +26,7 @@ const Navbar = ({ scrollToSection, cartCount }) => {
           {/* Logo */}
           <div className='text-xl font-extrabold'>
             <NavLink to="/" onClick={scrollToTop} title="Go to Homepage">
-              Doo-Kaan
+              Doo-Kaaaan
             </NavLink>
           </div>
 
